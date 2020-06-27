@@ -3,7 +3,7 @@
 Folders description 
 challenge 1 :-
 
-I have attached .py file that contains solution of challenge 1.
+I have attached .ipynb file that contains solution of challenge 1.
 
 challenge 2:- 
 
@@ -12,12 +12,12 @@ I have attached .sql file that contains relational query soution of challenge 2.
 
 challenge 3:-
 
-I have attached .py file that contains solution of challenge 3.
+I have attached ipynb file that contains solution of challenge 3.
 
 
 challenge 4 :- 
 
-I have attached .py file which is .py version of notebook(.ipynb) that contains solution of challenge 4 
+I have attached  file which is notebook(.ipynb) that contains solution of challenge 4 
 
 step 1 - Studied Time-series analysis and Reasearch given CSV file. 
 
