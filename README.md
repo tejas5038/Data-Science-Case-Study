@@ -12,7 +12,7 @@ I have attached .sql file that contains relational query soution of challenge 2.
 
 challenge 3:-
 
-I have attached ipynb file that contains solution of challenge 3.
+I have attached .ipynb file that contains solution of challenge 3.
 
 
 challenge 4 :- 
