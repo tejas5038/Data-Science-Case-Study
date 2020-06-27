@@ -1,4 +1,4 @@
-# WhatsBusy-2020-Intern-Data-Science-Case-Study
+#Intern-Data-Science-Case-Study
 
 Folders description 
 challenge 1 :-
